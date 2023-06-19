@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="4" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-09T10:16:20 CEST" name="Default suite" finished-at="2023-06-09T10:16:31 CEST" duration-ms="10840">
+    <groups>
+    </groups>
+    <test started-at="2023-06-09T10:16:20 CEST" name="Default test" finished-at="2023-06-09T10:16:31 CEST" duration-ms="10840">
+      <class name="testSuite.PlpPomTestScripts">
+        <test-method is-config="true" signature="start()[pri:0, instance:testSuite.PlpPomTestScripts@5e82df6a]" started-at="2023-06-09T10:16:20 CEST" name="start" finished-at="2023-06-09T10:16:23 CEST" duration-ms="3024" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="TC_PRODUCT_016_CheckIfBreadcrumbsMenuNavigateToCorespondingPage()[pri:0, instance:testSuite.PlpPomTestScripts@5e82df6a]" started-at="2023-06-09T10:16:23 CEST" name="TC_PRODUCT_016_CheckIfBreadcrumbsMenuNavigateToCorespondingPage" finished-at="2023-06-09T10:16:27 CEST" duration-ms="4363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_PRODUCT_016_CheckIfBreadcrumbsMenuNavigateToCorespondingPage -->
+        <test-method is-config="true" signature="end(org.testng.ITestResult)[pri:0, instance:testSuite.PlpPomTestScripts@5e82df6a]" started-at="2023-06-09T10:16:27 CEST" name="end" finished-at="2023-06-09T10:16:31 CEST" duration-ms="3432" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_PRODUCT_016_CheckIfBreadcrumbsMenuNavigateToCorespondingPage status=SUCCESS method=PlpPomTestScripts.TC_PRODUCT_016_CheckIfBreadcrumbsMenuNavigateToCorespondingPage()[pri:0, instance:testSuite.PlpPomTestScripts@5e82df6a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- testSuite.PlpPomTestScripts -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
